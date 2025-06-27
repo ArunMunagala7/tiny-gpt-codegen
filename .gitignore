@@ -3,5 +3,6 @@ __pycache__/
 *.pyc
 *.pt
 *.pth
-data/cache/
+data/python_clean_code.txt
+tokenizer/
 model/
